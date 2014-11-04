@@ -1,0 +1,8 @@
+"abdul"
+{
+	"base"		"base"
+	"title"		"Abdul: Masloterminator"
+	"author"	"SchwarzKruppzo"
+	"menusystem" "1"
+	"maps"		"^abdul_"
+}

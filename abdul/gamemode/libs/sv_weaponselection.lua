@@ -1,0 +1,7 @@
+concommand.Add("abdul_selectwep", function(client, command, arguments)
+	client:SelectWeapon(arguments[1] or "abdul_machete")
+end)
+concommand.Add("_50cal", function(client, command, arguments)
+	client:SetKSAward( "Turret" )
+	client:SetKSAward( "WH" )
+end)
